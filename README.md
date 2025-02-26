@@ -1,3 +1,6 @@
+This one-page web application is built with React and serves as a landing page for a specific company's portfolio. 
+It showcases the company's offerings and provides contact details for potential clients.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
